@@ -1,0 +1,16 @@
+.table2{
+    border: 1px solid rgb(164, 162, 162);
+    border-collapse: serapate;
+}
+
+.t1{
+    background-color: #b3afaf;
+    border: 1px solid rgb(164, 162, 162);
+}
+.t2{
+    background-color: #dcd7d7;
+    border: 1px solid rgb(164, 162, 162);
+}
+.t{
+    border: 1px solid rgb(164, 162, 162);
+}
